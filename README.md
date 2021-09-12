@@ -1,2 +1,2 @@
 # SocialTIC-BPU
-Proyecto Colaborativo con la MisiónTIC2022
+Mi propio Proyecto MisiónTIC2022 - Benjamín Pava Urrea
